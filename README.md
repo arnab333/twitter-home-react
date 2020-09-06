@@ -1,3 +1,3 @@
 ## Twitter Practice Project
 
-This is a practice project of the Twitter application.
+Simple Twitter home page, with creating new posts and fetching them in real time using Firebase as a  database.
