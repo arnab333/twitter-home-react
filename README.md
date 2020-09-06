@@ -1,3 +1,3 @@
 ## Twitter Practice Project
 
-Simple Twitter home page, with creating new posts and fetching them in real time using Firebase as a  database.
+Simple Twitter home page. Anyone can create new posts using default _user name_ and it will be fetched in real time. Firestore _(Firebase)_ has been used as a database.
